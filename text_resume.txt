@@ -1,0 +1,149 @@
+Xinya Yang
+
+
+Tel: 312-622-5645
+Email: xinyayang0506@gmail.com
+Github: @XinyaYang0506
+
+
+A better-formatted PDF version of this resume: https://github.com/XinyaYang0506/cv/blob/master/resume_Xinya_Yang.pdf
+
+
+EDUCATION
+ B.A.
+ Computer Science
+ Grinnell College
+ Graduating May 2020
+ Major GPA: 3.81
+ Cumulative GPA: 3.36
+
+COURSEWORK
+ Computer Science
+ - Computation theory (ongoing)
+ - Analysis of algorithms (ongoing)
+ - Computer vision
+ - Advanced operating systems
+ - Computer organization & architecture
+ - Algorithms & object-oriented design
+ - Imperative problem solving
+ - Data structures
+ - Functional problem solving
+
+ Math
+ - Graph theory
+ - Linear algebra
+ - Calc I & II
+ 
+SKILLS
+ Programming Languages
+  proficient: C/C++, JavaScript
+  intermediate: MATLAB, Java, bash, Scheme, Python
+  beginning: Go, Swift, Objective C
+
+ Frameworks & Models
+ Deep Learning: TensorFlow, scikit-learn, Keras
+ Web Dev: D3.js, Node.js, HTML, CSS
+ Blockchain: Qtum
+
+
+
+ General
+ Software: ADOBE suite, tableau, stata, Latex
+ OS: linux, mac
+ IDEs/editors: vscode, Emacs, intelliJ, Eclipse, Xcode
+
+ Languages
+ English (fluent), Chinese(native), German(intermediate/beginning)
+
+
+
+ Interests
+  Dance
+  - Kpop Dance cover & performance
+  - Modern dance composition & performance in social justice theme (article: https://www.thesandb.com/arts/stranger-in-a-strange-land-opens-this-weekend.html)
+  Origami
+  - Led a 120-min origami class combining
+  - lecture & hands-on activities
+
+
+
+RESEARCH
+ Systems and Languages Research Lab @ Grinnell College
+  research assistant 
+  June 6.1.2018 - Present
+
+  Project 1: ALEX - Developing a software profiler to improve program performance (increasing physical resource usage) by data analysis
+
+   • Spearheaded the development of data visualization part using d3.js 
+   • Debugged and streamlined C++ code collecting performance data through Linux API
+
+   • Designed and standardized the data format for the data analysis in Protocol Buffers 
+
+   • Followed an Agile flow and acquired good version control
+
+  New project 2: utilizing virtual page aliasing to optimize false sharing
+
+
+
+
+ Washington University in St. Louis CSE Department
+
+  REU participant, student researcher
+
+  Summer 5.27 - 8.02 2019 
+
+  Understanding the use of blockchain in IoT (Raspberry Pi) from a system perspective 
+
+   • Conducted a literature review on the use of blockchain in IoT 
+
+   • Deployed several commercial blockchains to Raspberry Pis and set up private chains 
+
+   • Implemented blockchain prototypes (PoW PoS) w/ Go as a future benchmark usage 
+
+   • Developed a GUI for the inspection of different consensuses using PyQT5
+
+
+CLASS PROJECT (all March - May 2019) 
+ computer vision class project: queue size determination (link: https://github.com/YourFin/QueueTime)
+  A pipeline to calculate the size of a queue in the videos using deep learning techniques and
+ heuristics
+   • Implemented and trained the YOLO model w/ Coco dataset using Keras to detect and localize human in video frames
+   • Designed a lightweight yet effective algorithm for ”in queue or not” determination
+   • Experimented the above two parts w/ different hyper-parameter systematically for analysis
+
+
+
+ Advanced operating system class project: no use after free (link: https://github.com/gaffordb/nuaf)
+  A customized memory allocator using Heaplayer to prevent all use-after-free and double-free errors in C/C++, which are currently the top root causes of CVE
+   • Utilized virtual page aliasing and MMU to invalidate freed objects
+   • Covered corner cases including large objects, interior pointers, parallel programs
+   • Achieved very low time overhead in the evaluation process (7/10 benchmarks have <1% overhead)
+
+
+
+ Environmental chemistry class project: Lead Concentration in Drinking Water • | environmental chemistry (link: https://github.com/XinyaYang0506/Pb-in-drinking-water-grinnell/blob/master/EVN240_final_poster.pdf)
+  Part of the largest investigation into drinking water lead levels in the local area
+   • Wrote scientific instructions of sampling and collected 44 water samples in total
+   • Ran through ICP-MS to measure the lead and iron concentration
+   • Drew conclusions based on data visualization and stats method, such as ANOVA
+  NEW project: developing a web-based data visualization for water management practice research
+
+
+TEACHING & EXTRACURRICULAR
+ Intro CS Classes & Liberal Arts in Prison
+ teaching assistant, mentor, tutor & grader
+ Fall 2017 - Present
+  • Grade homework and labs, hold review sessions once per week, and write worksheets
+  • Create and maintain the webpage of extra resources for students https://xinyayang0506.github.io/CSC-151/
+  • Emphasize the use of diagram and high-level planning and offer learning strategies
+  • Lead 1:1 math courses for students in prison w/o concrete math foundation
+  • Meet with the professor and other TAs once per week to improve the class design for better experience of students.
+
+
+ Grinnell AppDev iOS Team
+ developer & group coordinator
+ Fall 2018 - Present
+  We develop mobile applications for students, including a handy college directory for search
+  • Update user interface regularly under Apple guidelines for better user experience
+  • Coordinate team members for one project and hold weekly meetings
+
