@@ -4,6 +4,10 @@ Xinya Yang
 Tel: 312-622-5645
 Email: xinyayang0506@gmail.com
 Github: @XinyaYang0506
+Address: 
+1008 east st
+Grinnell, Iowa
+50112
 
 
 A better-formatted PDF version of this resume: https://github.com/XinyaYang0506/cv/blob/master/resume_Xinya_Yang.pdf
@@ -37,7 +41,7 @@ COURSEWORK
 SKILLS
  Programming Languages
   proficient: C/C++, JavaScript
-  intermediate: MATLAB, Java, bash, Scheme, Python
+  intermediate: MATLAB, Java, bash, Scheme, Python, assembly
   beginning: Go, Swift, Objective C
 
  Frameworks & Models
@@ -68,9 +72,9 @@ SKILLS
 
 
 RESEARCH
- Systems and Languages Research Lab @ Grinnell College
-  research assistant 
-  June 6.1.2018 - Present
+Company: Systems and Languages Research Lab @ Grinnell College
+Role:   research assistant 
+Time:   June 6.1.2018 - Present
 
   Project 1: ALEX - Developing a software profiler to improve program performance (increasing physical resource usage) by data analysis
 
@@ -86,11 +90,11 @@ RESEARCH
 
 
 
- Washington University in St. Louis CSE Department
+Company: Washington University in St. Louis CSE Department
 
-  REU participant, student researcher
+Role:  REU participant, student researcher
 
-  Summer 5.27 - 8.02 2019 
+Time:  Summer 5.27 - 8.02 2019 
 
   Understanding the use of blockchain in IoT (Raspberry Pi) from a system perspective 
 
@@ -104,7 +108,8 @@ RESEARCH
 
 
 CLASS PROJECT (all March - May 2019) 
- computer vision class project: queue size determination (link: https://github.com/YourFin/QueueTime)
+Role: group project member
+Company: computer vision class project: queue size determination (link: https://github.com/YourFin/QueueTime)
   A pipeline to calculate the size of a queue in the videos using deep learning techniques and
  heuristics
    • Implemented and trained the YOLO model w/ Coco dataset using Keras to detect and localize human in video frames
@@ -112,16 +117,16 @@ CLASS PROJECT (all March - May 2019)
    • Experimented the above two parts w/ different hyper-parameter systematically for analysis
 
 
-
- Advanced operating system class project: no use after free (link: https://github.com/gaffordb/nuaf)
+Role: group project member
+Company:  Advanced operating system class project: no use after free (link: https://github.com/gaffordb/nuaf)
   A customized memory allocator using Heaplayer to prevent all use-after-free and double-free errors in C/C++, which are currently the top root causes of CVE
    • Utilized virtual page aliasing and MMU to invalidate freed objects
    • Covered corner cases including large objects, interior pointers, parallel programs
    • Achieved very low time overhead in the evaluation process (7/10 benchmarks have <1% overhead)
 
 
-
- Environmental chemistry class project: Lead Concentration in Drinking Water • | environmental chemistry (link: https://github.com/XinyaYang0506/Pb-in-drinking-water-grinnell/blob/master/EVN240_final_poster.pdf)
+Role: group project member
+Company:  Environmental chemistry class project: Lead Concentration in Drinking Water • | environmental chemistry (link: https://github.com/XinyaYang0506/Pb-in-drinking-water-grinnell/blob/master/EVN240_final_poster.pdf)
   Part of the largest investigation into drinking water lead levels in the local area
    • Wrote scientific instructions of sampling and collected 44 water samples in total
    • Ran through ICP-MS to measure the lead and iron concentration
@@ -130,8 +135,8 @@ CLASS PROJECT (all March - May 2019)
 
 
 TEACHING & EXTRACURRICULAR
- Intro CS Classes & Liberal Arts in Prison
- teaching assistant, mentor, tutor & grader
+Company:  Intro CS Classes & Liberal Arts in Prison
+Role:  teaching assistant, mentor, tutor & grader
  Fall 2017 - Present
   • Grade homework and labs, hold review sessions once per week, and write worksheets
   • Create and maintain the webpage of extra resources for students https://xinyayang0506.github.io/CSC-151/
@@ -140,8 +145,8 @@ TEACHING & EXTRACURRICULAR
   • Meet with the professor and other TAs once per week to improve the class design for better experience of students.
 
 
- Grinnell AppDev iOS Team
- developer & group coordinator
+Company:  Grinnell AppDev iOS Team
+Role: developer & group coordinator
  Fall 2018 - Present
   We develop mobile applications for students, including a handy college directory for search
   • Update user interface regularly under Apple guidelines for better user experience
