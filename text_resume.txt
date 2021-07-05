@@ -47,6 +47,7 @@ SKILLS
 
  Frameworks & Models
  Deep Learning: TensorFlow, scikit-learn, Keras
+ DevOps & Data: Jenkins, Docker, Kubernetes, MySQL, RabbitMQ
  Web Dev: D3.js, Node.js, HTML, CSS, REST API, React, Webpack, Webassembly, Ruby on Rails, Flutter, SaaS
  Others: Protobuff, Json, Yaml
 
