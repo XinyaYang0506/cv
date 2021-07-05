@@ -1,11 +1,12 @@
 Xinya Yang
 
 
-Tel: 312-622-5645
+Tel: 6196304567
 Email: xinyayang0506@gmail.com
 Github: @XinyaYang0506
 Address: 
-1008 east st
+1132 Main St,
+# 4
 Grinnell, Iowa
 50112
 
@@ -17,14 +18,14 @@ EDUCATION
  B.A.
  Computer Science
  Grinnell College
- Graduating May 2020
- Major GPA: 3.81
- Cumulative GPA: 3.36
+ Graduated May 2020
+ Major GPA: 3.87 with Honors
 
 COURSEWORK
  Computer Science
- - Computation theory (ongoing)
- - Analysis of algorithms (ongoing)
+ - HCI and programming
+ - Computation theory
+ - Analysis of algorithms
  - Computer vision
  - Advanced operating systems
  - Computer organization & architecture
@@ -40,14 +41,14 @@ COURSEWORK
  
 SKILLS
  Programming Languages
-  proficient: C/C++, JavaScript
-  intermediate: MATLAB, Java, bash, Scheme, Python, assembly
-  beginning: Go, Swift, Objective C
+  proficient: C/C++, TypeScript/JavaScript, Rust, Python, Haskell
+  intermediate: MATLAB, Java, bash, Scheme, assembly, dart
+  beginning: Ruby, Go, Swift, Objective C
 
  Frameworks & Models
  Deep Learning: TensorFlow, scikit-learn, Keras
- Web Dev: D3.js, Node.js, HTML, CSS
- Blockchain: Qtum
+ Web Dev: D3.js, Node.js, HTML, CSS, REST API, React, Webpack, Webassembly, Ruby on Rails, Flutter, SaaS
+ Others: Protobuff, Json, Yaml
 
 
 
@@ -57,7 +58,7 @@ SKILLS
  IDEs/editors: vscode, Emacs, intelliJ, Eclipse, Xcode
 
  Languages
- English (fluent), Chinese(native), German(intermediate/beginning)
+ English (fluent), Chinese(native)
 
 
 
@@ -71,84 +72,117 @@ SKILLS
 
 
 
+Industry Work experience
+Company: Qualcomm
+Role: Software Engineer
+Time: July 2020 - Present
+
+- Design and implement various 5G modem features
+- Maintain the debugging tools and further streamline the automation, which saves on-call  developers debugging time on urgent issues
+- Establish data collection, cleaning and storage pipeline for ML purpose
+Keywords: Jenkins, Kubernetes, C, OOD, Python, Firmware, MySQL
+
+
+
+Individual Programming Projects
+
+Topic: Developing Tools and Productivity
+Time: Spring 2020 - Present
+
+Simple Regex: An LISP like DSL language that saves humans from inhumane regex syntax
+- Enables writing type-checked, modular, reusable expressions using functions and variables.
+Keywords: DSL, Haskell, parsing, regex
+
+Log Analysis: A VScode extension to filter keywords for efficient examination of log files
+- Compatible with VScode async workflow
+- Supports multiple tabs and multiple windows
+- 700 downloads with 5 start review
+Keywords: Open Source community, extension, typescript
+
+Topic: Web and Games
+Time: Fall 2020 - Present
+Infared Camera Placement Challenge: Designing and implementing a game for public awareness of the wildlife conservation and research process for ShanShui Conservation Center. 
+- Design prototype in Figma. 
+- Implement the game in flutter. 
+Keywords: non-profit, game, prototype design, figma, flutter
+
+QR-Haggis: Web poker game that plays through QR-code offline or WebSocket online. 
+- Wrote game logic in Rust and compiled to Web assembly. Frontend rendering in React. 
+- Hand crafted the compression algorithm to fit the whole game state into QRcode. 
+Keywords: Rust, WebAssembly, TypeScript/JavaScript, React, WebSocket, Webpack
+
+
 RESEARCH
 Company: Systems and Languages Research Lab @ Grinnell College
 Role:   research assistant 
-Time:   June 6.1.2018 - Present
-
-  Project 1: ALEX - Developing a software profiler to improve program performance (increasing physical resource usage) by data analysis
-
-   • Spearheaded the development of data visualization part using d3.js 
-   • Debugged and streamlined C++ code collecting performance data through Linux API
-
-   • Designed and standardized the data format for the data analysis in Protocol Buffers 
-
-   • Followed an Agile flow and acquired good version control
-
-  New project 2: utilizing virtual page aliasing to optimize false sharing
-
-
-
+Time:   June 2018 - May 2020
+I have contributed to three projects: 
+1. Checkboard: Use virtual page aliasing to mitigate false sharing, a cache performance issue. 
+- Wrote a customized memory allocator.
+- Utilized hardware performance stats as heuristics.
+2. No Use after Free: A customized memory allocator to prevent all use-after-free and double-free errors in C/C++, which are currently the top root causes of CVE
+- Utilized virtual page aliasing and MMU to invalidate freed objects.
+- Covered corner cases including large objects, interior pointers, parallel programs.
+- Very low time overhead in the evaluation process (7/10 benchmarks have 1% overhead).
+3. AnaLysis of EXecution: A software profiler to analyze physical resource usage.
+- Spearheaded the development of the data visualization part using D3.js.
+- Streamlined C++ code collecting performance data through Linux API.
+- Designed and standardized the data format for the data analysis in Protocol Buffers.
+Keywords: C/C++, profiler, memory safety, optimization, cache, system programming, operating system. 
 
 Company: Washington University in St. Louis CSE Department
-
 Role:  REU participant, student researcher
-
 Time:  Summer 5.27 - 8.02 2019 
 
   Understanding the use of blockchain in IoT (Raspberry Pi) from a system perspective 
-
-   • Conducted a literature review on the use of blockchain in IoT 
-
-   • Deployed several commercial blockchains to Raspberry Pis and set up private chains 
-
-   • Implemented blockchain prototypes (PoW PoS) w/ Go as a future benchmark usage 
-
-   • Developed a GUI for the inspection of different consensuses using PyQT5
+   - Conducted a literature review on the use of blockchain in IoT 
+   - Deployed several commercial blockchains to Raspberry Pis and set up private chains 
+   - Implemented blockchain prototypes (PoW PoS) w/ Go as a future benchmark usage 
+   - Developed a GUI for the inspection of different consensuses using PyQT5
 
 
-CLASS PROJECT (all March - May 2019) 
+
+Public Service
+
+Volunteer Work
+Role: Organizer
+Time: Apr 2020 - June 2020
+Initialized and organized the donation of PPE from 150+ donors to a small college town. 
+- Collaborated with student families, alumni, manufacturers, and non-profit organizations.
+- Selected products and wrote education materials guided by health professionals and standards.
+- Led the fund-raising, purchase, shipping, distribution, and education of PPE usage.
+- Special care for vulnerable groups including the elders, children, MCPs, and immigrants.
+
+
+Volunteer Work
+Role: developer
+Time: Jan 2020 - Present
+Assisting environmental agency and researchers
+- Developing the camera placement game as mentioned above for public education. 
+- Automated department data analysis pipeline using JupyterLab for non-coder researchers. 
+Keywords: python, data visualization
+
+
+
+CLASS PROJECT
 Role: group project member
-Company: computer vision class project: queue size determination (link: https://github.com/YourFin/QueueTime)
+Company: computer vision class
+Time: March - May 2019
+queue size determination (link: https://github.com/YourFin/QueueTime)
   A pipeline to calculate the size of a queue in the videos using deep learning techniques and
  heuristics
-   • Implemented and trained the YOLO model w/ Coco dataset using Keras to detect and localize human in video frames
-   • Designed a lightweight yet effective algorithm for ”in queue or not” determination
-   • Experimented the above two parts w/ different hyper-parameter systematically for analysis
+   - Implemented and trained the YOLO model w/ Coco dataset using Keras to detect and localize human in video frames
+   - Designed a lightweight yet effective algorithm for ”in queue or not” determination
+   - Experimented the above two parts w/ different hyper-parameter systematically for analysis
 
 
-Role: group project member
-Company:  Advanced operating system class project: no use after free (link: https://github.com/gaffordb/nuaf)
-  A customized memory allocator using Heaplayer to prevent all use-after-free and double-free errors in C/C++, which are currently the top root causes of CVE
-   • Utilized virtual page aliasing and MMU to invalidate freed objects
-   • Covered corner cases including large objects, interior pointers, parallel programs
-   • Achieved very low time overhead in the evaluation process (7/10 benchmarks have <1% overhead)
 
-
-Role: group project member
-Company:  Environmental chemistry class project: Lead Concentration in Drinking Water • | environmental chemistry (link: https://github.com/XinyaYang0506/Pb-in-drinking-water-grinnell/blob/master/EVN240_final_poster.pdf)
-  Part of the largest investigation into drinking water lead levels in the local area
-   • Wrote scientific instructions of sampling and collected 44 water samples in total
-   • Ran through ICP-MS to measure the lead and iron concentration
-   • Drew conclusions based on data visualization and stats method, such as ANOVA
-  NEW project: developing a web-based data visualization for water management practice research
-
-
-TEACHING & EXTRACURRICULAR
+TEACHING
 Company:  Intro CS Classes & Liberal Arts in Prison
 Role:  teaching assistant, mentor, tutor & grader
- Fall 2017 - Present
-  • Grade homework and labs, hold review sessions once per week, and write worksheets
-  • Create and maintain the webpage of extra resources for students https://xinyayang0506.github.io/CSC-151/
-  • Emphasize the use of diagram and high-level planning and offer learning strategies
-  • Lead 1:1 math courses for students in prison w/o concrete math foundation
-  • Meet with the professor and other TAs once per week to improve the class design for better experience of students.
-
-
-Company:  Grinnell AppDev iOS Team
-Role: developer & group coordinator
- Fall 2018 - Present
-  We develop mobile applications for students, including a handy college directory for search
-  • Update user interface regularly under Apple guidelines for better user experience
-  • Coordinate team members for one project and hold weekly meetings
-
+ Fall 2017 - May 2020
+  - Grade homework and labs, hold review sessions once per week, and write worksheets
+  - Create and maintain the webpage of extra resources for students https://xinyayang0506.github.io/CSC-151/
+  - Emphasize the use of diagram and high-level planning and offer learning strategies
+  - Lead 1:1 math courses for students in prison w/o concrete math foundation
+  - Meet with the professor and other TAs once per week to improve the class design for better experience of students.
