@@ -1,14 +1,14 @@
 Xinya Yang
 
 
-Tel: 6196304567
+Mobile: 6196304567
 Email: xinyayang0506@gmail.com
 Github: https://github.com/XinyaYang0506/
 Address: 
-1132 Main St,
-# 4
-Grinnell, Iowa
-50112
+  1132 Main St,
+  # 4
+  Grinnell, Iowa
+  50112
 linkedin: https://www.linkedin.com/in/xinya-yang-bb101715a/
 
 A better-formatted PDF version of this resume: https://github.com/XinyaYang0506/cv/blob/master/resume_Xinya_Yang.pdf
@@ -23,167 +23,167 @@ EDUCATION
 
 COURSEWORK
  Computer Science
- - HCI and programming
- - Computation theory
- - Analysis of algorithms
- - Computer vision
- - Advanced operating systems
- - Computer organization & architecture
- - Algorithms & object-oriented design
- - Imperative problem solving
- - Data structures
- - Functional problem solving
+  - HCI and programming
+  - Computation theory
+  - Analysis of algorithms
+  - Computer vision
+  - Advanced operating systems
+  - Computer organization & architecture
+  - Algorithms & object-oriented design
+  - Imperative problem solving
+  - Data structures
+  - Functional problem solving
 
  Math
- - Graph theory
- - Linear algebra
- - Calc I & II
+  - Graph theory
+  - Linear algebra
+  - Calculus
  
 SKILLS
  Programming Languages
   proficient: C/C++, TypeScript/JavaScript, Rust, Python, Haskell
   intermediate: MATLAB, Java, bash, Scheme, assembly, dart
-  beginning: Ruby, Go, Swift, Objective C
+  beginning: Ruby, Golang, Swift
 
- Frameworks & Models
- Deep Learning: TensorFlow, scikit-learn, Keras
- DevOps & Data: Jenkins, Docker, Kubernetes, MySQL, RabbitMQ
- Web Dev: D3.js, Node.js, HTML, CSS, REST API, React, Webpack, Webassembly, Ruby on Rails, Flutter, SaaS
- Others: Protobuff, Json, Yaml, Figma
-
+ Frameworks, Models & Tools
+  Web Dev: SaaS, REST API, D3.js, Node.js, React, Webpack, Webassembly, Ruby on Rails, Flutter
+  DevOps: Jenkins, Docker, Kubernetes, RabbitMQ 
+  Data, Deep Learning: MySQL, Pandas, Splunk, TensorFlow, scikit-learn, Keras
+  Others: Protobuff, JSON, YAML, Figma, git, perforce
 
 
  General
- Software: ADOBE suite, tableau, stata, Latex
- OS: linux, mac
- IDEs/editors: vscode, Emacs, intelliJ, Eclipse, Xcode
+  Software: ADOBE suite, tableau, stata, Latex
+  OS: linux, mac
+  IDEs/editors: vscode, Emacs, intelliJ, Eclipse, Xcode
 
  Languages
- English (fluent), Chinese(native)
+  English (fluent), Chinese(native)
 
 
 
  Interests
   Dance
-  - Kpop Dance cover & performance
-  - Modern dance composition & performance in social justice theme (article: https://www.thesandb.com/arts/stranger-in-a-strange-land-opens-this-weekend.html)
+    - Kpop Dance cover & performance
+    - Modern dance composition & performance in social justice theme (article: https://www.thesandb.com/arts/stranger-in-a-strange-land-opens-this-weekend.html)
   Origami
-  - Led a 120-min origami class combining
-  - lecture & hands-on activities
+    - Led a 120-min origami class combining
+    - lecture & hands-on activities
 
 
 
 Industry Work experience
-Company: Qualcomm
-Role: Software Engineer
-Time: July 2020 - Present
+  Company: Qualcomm
+  Role: Software Engineer
+  Time: 07 2020 - Present
 
-- Design and implement various 5G modem features
-- Maintain the debugging tools and further streamline the automation, which saves on-call  developers debugging time on urgent issues
-- Establish data collection, cleaning and storage pipeline for ML purpose
-Keywords: Jenkins, Kubernetes, C, OOD, Python, Firmware, MySQL
+  - Design and implement various 5G modem features
+  - Maintain the debugging tools and further streamline the automation, which saves on-call  developers debugging time on urgent issues
+  - Establish data collection, cleaning, and storage pipeline for ML purpose
+  Keywords: Jenkins, Kubernetes, C, OOD, Python, Firmware, MySQL, Splunk
 
 
 
 Individual Programming Projects
 
-Topic: Developing Tools and Productivity
-Time: Spring 2020 - Present
+  Topic: Developing Tools and Productivity
+  Time: 06 2020 - 05 2021
+    1. Simple Regex: An LISP like DSL language that saves humans from inhumane regex syntax
+    - Enables writing type-checked, modular, reusable expressions using functions and variables.
+    Keywords: DSL, Haskell, parsing, regex
+    url: https://github.com/XinyaYang0506/simple-regex
 
-Simple Regex: An LISP like DSL language that saves humans from inhumane regex syntax
-- Enables writing type-checked, modular, reusable expressions using functions and variables.
-Keywords: DSL, Haskell, parsing, regex
+    2. Log Analysis: A VScode extension to filter keywords for efficient examination of log files
+    - Compatible with VScode async workflow
+    - Supports multiple tabs and multiple windows
+    - 700 downloads with 5 start review
+    Keywords: Open Source community, extension, typescript
+    url: https://marketplace.visualstudio.com/items?itemName=XinyaYang0506.log-analysis, https://github.com/XinyaYang0506/log-analysis
 
-Log Analysis: A VScode extension to filter keywords for efficient examination of log files
-- Compatible with VScode async workflow
-- Supports multiple tabs and multiple windows
-- 700 downloads with 5 start review
-Keywords: Open Source community, extension, typescript
+  Topic: Web and Games
+  Time: 06 2020 - 05 2021
+    1. Infrared Camera Placement Challenge: Designing and implementing a game for public awareness of the wildlife conservation and research process for ShanShui Conservation Center. 
+    - Design prototype in Figma. 
+    - Implement the game in flutter. 
+    Keywords: non-profit, game, prototype design, figma, flutter
 
-Topic: Web and Games
-Time: Fall 2020 - Present
-Infared Camera Placement Challenge: Designing and implementing a game for public awareness of the wildlife conservation and research process for ShanShui Conservation Center. 
-- Design prototype in Figma. 
-- Implement the game in flutter. 
-Keywords: non-profit, game, prototype design, figma, flutter
-
-QR-Haggis: Web poker game that plays through QR-code offline or WebSocket online. 
-- Wrote game logic in Rust and compiled to Web assembly. Frontend rendering in React. 
-- Hand crafted the compression algorithm to fit the whole game state into QRcode. 
-Keywords: Rust, WebAssembly, TypeScript/JavaScript, React, WebSocket, Webpack
+    2. QR-Haggis: Web poker game that plays through QR-code offline or WebSocket online. 
+    - Wrote game logic in Rust and compiled to Web assembly. Frontend rendering in React. 
+    - Handcrafted the compression algorithm to fit the whole game state into QRcode. 
+    Keywords: Rust, WebAssembly, TypeScript/JavaScript, React, WebSocket, Webpack
+    url: https://www.albertford.com/haggis/, https://github.com/370417/qr-haggis
 
 
 RESEARCH
-Company: Systems and Languages Research Lab @ Grinnell College
-Role:   research assistant 
-Time:   June 2018 - May 2020
-I have contributed to three projects: 
-1. Checkboard: Use virtual page aliasing to mitigate false sharing, a cache performance issue. 
-- Wrote a customized memory allocator.
-- Utilized hardware performance stats as heuristics.
-2. No Use after Free: A customized memory allocator to prevent all use-after-free and double-free errors in C/C++, which are currently the top root causes of CVE
-- Utilized virtual page aliasing and MMU to invalidate freed objects.
-- Covered corner cases including large objects, interior pointers, parallel programs.
-- Very low time overhead in the evaluation process (7/10 benchmarks have 1% overhead).
-3. AnaLysis of EXecution: A software profiler to analyze physical resource usage.
-- Spearheaded the development of the data visualization part using D3.js.
-- Streamlined C++ code collecting performance data through Linux API.
-- Designed and standardized the data format for the data analysis in Protocol Buffers.
-Keywords: C/C++, profiler, memory safety, optimization, cache, system programming, operating system. 
+  Company: Systems and Languages Research Lab at Grinnell College
+  Role:   research assistant 
+  Time:   June 2018 - May 2020
+    I have contributed to three projects: 
+    1. Checkboard: Use virtual page aliasing to mitigate false sharing, a cache performance issue. 
+    - Wrote a customized memory allocator.
+    - Utilized hardware performance stats as heuristics.
+    2. No Use after Free: A customized memory allocator to prevent all use-after-free and double-free errors in C/C++, which are currently the top root causes of CVE
+    - Utilized virtual page aliasing and MMU to invalidate freed objects.
+    - Covered corner cases including large objects, interior pointers, parallel programs.
+    - Very low time overhead in the evaluation process (7/10 benchmarks have 1% overhead).
+    url: https://github.com/gaffordb/nuaf
+    3. AnaLysis of EXecution: A software profiler to analyze physical resource usage.
+    - Spearheaded the development of the data visualization part using D3.js.
+    - Streamlined C++ code collecting performance data through Linux API.
+    - Designed and standardized the data format for the data analysis in Protocol Buffers.
+    Keywords: C/C++, profiler, memory safety, optimization, cache, system programming, operating system, linux. data visualization
 
-Company: Washington University in St. Louis CSE Department
-Role:  REU participant, student researcher
-Time:  Summer 5.27 - 8.02 2019 
-
-  Understanding the use of blockchain in IoT (Raspberry Pi) from a system perspective 
-   - Conducted a literature review on the use of blockchain in IoT 
-   - Deployed several commercial blockchains to Raspberry Pis and set up private chains 
-   - Implemented blockchain prototypes (PoW PoS) w/ Go as a future benchmark usage 
-   - Developed a GUI for the inspection of different consensuses using PyQT5
+  Company: Washington University in St. Louis CSE Department
+  Role:  REU participant, student researcher
+  Time:  Summer 5.27 - 8.02 2019 
+    Understanding the use of blockchain in IoT (Raspberry Pi) from a system perspective 
+    - Conducted a literature review on the use of blockchain in IoT 
+    - Deployed several commercial blockchains to Raspberry Pis and set up private chains 
+    - Implemented blockchain prototypes (PoW PoS) w/ Go as a future benchmark usage 
+    - Developed a GUI for the inspection of different consensuses using PyQT5
 
 
 
 Public Service
 
-Volunteer Work
-Role: Organizer
-Time: Apr 2020 - June 2020
-Initialized and organized the donation of PPE from 150+ donors to a small college town. 
-- Collaborated with student families, alumni, manufacturers, and non-profit organizations.
-- Selected products and wrote education materials guided by health professionals and standards.
-- Led the fund-raising, purchase, shipping, distribution, and education of PPE usage.
-- Special care for vulnerable groups including the elders, children, MCPs, and immigrants.
+  Volunteer Work
+  Role: Organizer
+  Time: Apr 2020 - June 2020
+  Initialized and organized the donation of PPE from 150+ donors to a small college town. 
+  - Collaborated with student families, alumni, manufacturers, and non-profit organizations.
+  - Selected products and wrote education materials guided by health professionals and standards.
+  - Led the fund-raising, purchase, shipping, distribution, and education of PPE usage.
+  - Special care for vulnerable groups including the elders, children, Major Care Providers, and immigrants.
 
-
-Volunteer Work
-Role: developer
-Time: Jan 2020 - Present
-Assisting environmental agency and researchers
-- Developing the camera placement game as mentioned above for public education. 
-- Automated department data analysis pipeline using JupyterLab for non-coder researchers. 
-Keywords: python, data visualization
+  Volunteer Work
+  Role: developer
+  Time: Jan 2020 - 05 2021
+  Assisting environmental agency and researchers
+  - Developing the camera placement game as mentioned above for public education. 
+  - Automated department data analysis pipeline using JupyterLab for non-coder researchers. 
+  Keywords: python, data visualization
 
 
 
 CLASS PROJECT
-Role: group project member
-Company: computer vision class
-Time: March - May 2019
-queue size determination (link: https://github.com/YourFin/QueueTime)
-  A pipeline to calculate the size of a queue in the videos using deep learning techniques and
- heuristics
-   - Implemented and trained the YOLO model w/ Coco dataset using Keras to detect and localize human in video frames
-   - Designed a lightweight yet effective algorithm for ”in queue or not” determination
-   - Experimented the above two parts w/ different hyper-parameter systematically for analysis
+  Role: group project member
+  Company: computer vision class
+  Time: March - May 2019
+  queue size determination (link: https://github.com/YourFin/QueueTime)
+    A pipeline to calculate the size of a queue in the videos using deep learning techniques and
+  heuristics
+    - Implemented and trained the YOLO model w/ Coco dataset using Keras to detect and localize human in video frames
+    - Designed a lightweight yet effective algorithm for ”in queue or not” determination
+    - Experimented the above two parts w/ different hyper-parameter systematically for analysis
+  url: https://github.com/YourFin/QueueTime
 
 
-
-TEACHING
-Company:  Intro CS Classes & Liberal Arts in Prison
-Role:  teaching assistant, mentor, tutor & grader
- Fall 2017 - May 2020
+TEACHINGc
+Company:  CS Classes & Liberal Arts in Prison
+Role:  teaching assistant
+ 08 2017 - 05 2020
   - Grade homework and labs, hold review sessions once per week, and write worksheets
   - Create and maintain the webpage of extra resources for students https://xinyayang0506.github.io/CSC-151/
-  - Emphasize the use of diagram and high-level planning and offer learning strategies
+  - Emphasize the use of diagrams and high-level planning and offer learning strategies
   - Lead 1:1 math courses for students in prison w/o concrete math foundation
   - Meet with the professor and other TAs once per week to improve the class design for better experience of students.
