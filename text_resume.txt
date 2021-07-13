@@ -40,16 +40,73 @@ COURSEWORK
   - Calculus
  
 SKILLS
+  skill list summary:
+    Human Computer Interaction, 
+    Computation theory, 
+    algorithms, 
+    computer vision, 
+    operating systems, 
+    computer architecture, 
+    object oriented design,
+    data structure,
+    C,
+    C++,
+    TypeScript
+    JavaScript,
+    Rust,
+    Python,
+    Haskell,
+    MATLAB,
+    Java,
+    bash,
+    Scheme,
+    assembly,
+    dart,
+    Ruby,
+    Golang,
+    Swift,
+    SaaS,
+    REST API,
+    D3.js,
+    Node.js,
+    React,
+    Webpack,
+    Webassembly,
+    Ruby on Rails,
+    Flutter,
+    DevOps,
+    Jenkins,
+    Docker,
+    Kubernetes,
+    RabbitMQ,
+    Deep Learning,
+    MySQL,
+    Pandas,
+    Splunk,
+    TensorFlow,
+    scikit-learn,
+    Keras,
+    Protobuff,
+    JSON,
+    YAML,
+    Figma,
+    git,
+    perforce,
+    linux, 
+    agile flow,
+    heroku, 
+    MVC
+
  Programming Languages
   proficient: C/C++, TypeScript/JavaScript, Rust, Python, Haskell
   intermediate: MATLAB, Java, bash, Scheme, assembly, dart
   beginning: Ruby, Golang, Swift
 
  Frameworks, Models & Tools
-  Web Dev: SaaS, REST API, D3.js, Node.js, React, Webpack, Webassembly, Ruby on Rails, Flutter
+  Web Dev: SaaS, REST API, D3.js, Node.js, React, Webpack, Webassembly, Ruby on Rails, Flutter, Heroku
   DevOps: Jenkins, Docker, Kubernetes, RabbitMQ 
   Data, Deep Learning: MySQL, Pandas, Splunk, TensorFlow, scikit-learn, Keras
-  Others: Protobuff, JSON, YAML, Figma, git, perforce
+  Others: Protobuff, JSON, YAML, Figma, git, perforce, Agile flow, MVC
 
 
  General
@@ -75,7 +132,7 @@ SKILLS
 Industry Work experience
   Company: Qualcomm
   Role: Software Engineer
-  Time: 07 2020 - Present
+  Time: 07/2020 - Present
 
   - Design and implement various 5G modem features
   - Maintain the debugging tools and further streamline the automation, which saves on-call  developers debugging time on urgent issues
@@ -86,8 +143,9 @@ Industry Work experience
 
 Individual Programming Projects
 
-  Topic: Developing Tools and Productivity
-  Time: 06 2020 - 05 2021
+  Company: Individual projects about Developing Tools and Productivity
+  Role: Programmer
+  Time: 06/2020 - 05/2021
     1. Simple Regex: An LISP like DSL language that saves humans from inhumane regex syntax
     - Enables writing type-checked, modular, reusable expressions using functions and variables.
     Keywords: DSL, Haskell, parsing, regex
@@ -100,8 +158,9 @@ Individual Programming Projects
     Keywords: Open Source community, extension, typescript
     url: https://marketplace.visualstudio.com/items?itemName=XinyaYang0506.log-analysis, https://github.com/XinyaYang0506/log-analysis
 
-  Topic: Web and Games
-  Time: 06 2020 - 05 2021
+  Company: Individual projects about Web and Games
+  Role: Programmer 
+  Time: 06/2020 - 05/2021
     1. Infrared Camera Placement Challenge: Designing and implementing a game for public awareness of the wildlife conservation and research process for ShanShui Conservation Center. 
     - Design prototype in Figma. 
     - Implement the game in flutter. 
@@ -117,7 +176,7 @@ Individual Programming Projects
 RESEARCH
   Company: Systems and Languages Research Lab at Grinnell College
   Role:   research assistant 
-  Time:   June 2018 - May 2020
+  Time:   06/2018 - 05/2020
     I have contributed to three projects: 
     1. Checkboard: Use virtual page aliasing to mitigate false sharing, a cache performance issue. 
     - Wrote a customized memory allocator.
@@ -135,7 +194,7 @@ RESEARCH
 
   Company: Washington University in St. Louis CSE Department
   Role:  REU participant, student researcher
-  Time:  Summer 5.27 - 8.02 2019 
+  Time:  Summer 05/2019 - 08/2019 
     Understanding the use of blockchain in IoT (Raspberry Pi) from a system perspective 
     - Conducted a literature review on the use of blockchain in IoT 
     - Deployed several commercial blockchains to Raspberry Pis and set up private chains 
@@ -146,18 +205,18 @@ RESEARCH
 
 Public Service
 
-  Volunteer Work
+  Company: Volunteer Work
   Role: Organizer
-  Time: Apr 2020 - June 2020
+  Time: 04/2020 - 06/2020
   Initialized and organized the donation of PPE from 150+ donors to a small college town. 
   - Collaborated with student families, alumni, manufacturers, and non-profit organizations.
   - Selected products and wrote education materials guided by health professionals and standards.
   - Led the fund-raising, purchase, shipping, distribution, and education of PPE usage.
   - Special care for vulnerable groups including the elders, children, Major Care Providers, and immigrants.
 
-  Volunteer Work
+  Company: Volunteer Work
   Role: developer
-  Time: Jan 2020 - 05 2021
+  Time: 01/2020 - 05/2021
   Assisting environmental agency and researchers
   - Developing the camera placement game as mentioned above for public education. 
   - Automated department data analysis pipeline using JupyterLab for non-coder researchers. 
@@ -168,7 +227,7 @@ Public Service
 CLASS PROJECT
   Role: group project member
   Company: computer vision class
-  Time: March - May 2019
+  Time: 03/2019 - 05/2019
   queue size determination (link: https://github.com/YourFin/QueueTime)
     A pipeline to calculate the size of a queue in the videos using deep learning techniques and
   heuristics
@@ -181,7 +240,7 @@ CLASS PROJECT
 TEACHINGc
 Company:  CS Classes & Liberal Arts in Prison
 Role:  teaching assistant
- 08 2017 - 05 2020
+ 08/2017 - 05/2020
   - Grade homework and labs, hold review sessions once per week, and write worksheets
   - Create and maintain the webpage of extra resources for students https://xinyayang0506.github.io/CSC-151/
   - Emphasize the use of diagrams and high-level planning and offer learning strategies
