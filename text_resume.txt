@@ -176,7 +176,7 @@ Individual Programming Projects
 RESEARCH
   Company: Systems and Languages Research Lab at Grinnell College
   Role:   research assistant 
-  Time:   06/2018 - 05/2020
+  Time:   06/04/2018 - 05/18/2020
     I have contributed to three projects: 
     1. Checkboard: Use virtual page aliasing to mitigate false sharing, a cache performance issue. 
     - Wrote a customized memory allocator.
@@ -194,13 +194,13 @@ RESEARCH
 
   Company: Washington University in St. Louis CSE Department
   Role:  REU participant, student researcher
-  Time:  Summer 05/2019 - 08/2019 
+  Time:  Summer 05/28/2019 - 08/02/2019 
     Understanding the use of blockchain in IoT (Raspberry Pi) from a system perspective 
     - Conducted a literature review on the use of blockchain in IoT 
     - Deployed several commercial blockchains to Raspberry Pis and set up private chains 
     - Implemented blockchain prototypes (PoW PoS) w/ Go as a future benchmark usage 
     - Developed a GUI for the inspection of different consensuses using PyQT5
-
+Supervisor's name: Doug Shook
 
 
 Public Service
@@ -241,6 +241,7 @@ TEACHINGc
 Company:  CS Classes & Liberal Arts in Prison
 Role:  teaching assistant
  08/2017 - 05/2020
+ Exact date: 08/24/2017-05/18/2020
   - Grade homework and labs, hold review sessions once per week, and write worksheets
   - Create and maintain the webpage of extra resources for students https://xinyayang0506.github.io/CSC-151/
   - Emphasize the use of diagrams and high-level planning and offer learning strategies
