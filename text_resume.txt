@@ -50,6 +50,8 @@ SKILLS
     computer architecture, 
     object oriented design,
     data structure,
+    machine learning,
+    deep learning,
     C,
     C++,
     TypeScript
@@ -99,9 +101,9 @@ SKILLS
     MVC
 
  Programming Languages
-  proficient: C/C++, TypeScript/JavaScript, Rust, Python, Haskell
+  proficient: C/C++, TypeScript/JavaScript, Golang, Rust, Python, Haskell
   intermediate: MATLAB, Java, bash, Scheme, assembly, dart
-  beginning: Ruby, Golang, Swift
+  beginning: Ruby, Swift
 
  Frameworks, Models & Tools
   Web Dev: SaaS, REST API, D3.js, Node.js, React, Webpack, Webassembly, Ruby on Rails, Flutter, Heroku
